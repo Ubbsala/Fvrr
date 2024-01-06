@@ -11,7 +11,7 @@ class Fruit {
   }
 }
 
-$apple = new Fruit("Appllle");
+$apple = new Fruit("Appl");
 ?>
 
 <?php
