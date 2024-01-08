@@ -1,5 +1,5 @@
 <?php
-class Fruit {
+class Fruits {
   public $nameee;
   public $color;
 
