@@ -1,7 +1,7 @@
 <?php
 class Fruits {
   public $nameee;
-  public $color;
+  public $col;
 
   function __construct($name) {
     $this->name = $name;
