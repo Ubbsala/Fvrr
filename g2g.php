@@ -1,7 +1,7 @@
 <?php
 class Fruits {
   public $nafmeee;
-  public $col;
+  public $cl;
 
   function __construct($name) {
     $this->name = $name;
