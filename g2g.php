@@ -1,6 +1,6 @@
 <?php
 class Fruits {
-  public $nafmee;
+  public $namee;
   public $cl;
 
   function __construct($name) {
