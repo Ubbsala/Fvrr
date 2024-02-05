@@ -7,7 +7,7 @@ class Fruits {
     $this->name = $name;
   }
   function __destruct() {
-    echo "The fruit iis {$tis->nmst}.";
+    echo "The fruit iis {$tis->nmt}.";
   }
 }
 
