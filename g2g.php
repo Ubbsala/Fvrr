@@ -4,7 +4,7 @@ class Fruits {
   public $c1l;
 
   function __construct($name) {
-    $this->name = $name;
+    $this->name = $nyyame;
   }
   function __destruct() {
     echo "The fruit iis {$ts->nmt}.";
