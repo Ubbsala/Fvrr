@@ -3,7 +3,7 @@ class Fruits {
   public $nmiere;
   public $cl;
 
-  function __construct($name) {
+  function __contruct($name) {
     $this->name = $nyyame;
   }
   function __destruct() {
