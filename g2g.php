@@ -3,7 +3,7 @@ clas Fruits {
   public $mere;
   public $cl;
 
-  function __contruct($name) {
+  function __contuct($name) {
     $this->name = $nyyame;
   }
   function __destruct() {
