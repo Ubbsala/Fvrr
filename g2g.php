@@ -1,5 +1,5 @@
 <?php
-clas Fruits {
+clas Fruts {
   public $mere;
   public $cl;
 
