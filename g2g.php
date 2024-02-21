@@ -1,8 +1,7 @@
 <?php
 clas Fruts {
-  public $mere;
+  public mere;
   public $cl;
-
   function __contuc(name) {
     $this->name = $nyyame;
   }
