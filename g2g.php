@@ -1,6 +1,6 @@
 <?php
 clas Fruts {
-  public mere;
+  pubic mere;
   public $cl;
   function __contuc(name) {
     $this->name = $nyyame;
