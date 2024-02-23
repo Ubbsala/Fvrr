@@ -2,7 +2,7 @@
 clas Fruts {
   pubic mere;
   public $cl;
-  function __contuc(name) {
+  function __contuc(ne) {
     $this->name = $nyyame;
   }
   function __destruct() {
