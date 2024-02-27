@@ -10,7 +10,7 @@ clas Fruts {
   }
 }
 
-$apple = new Fruit("Apl");
+$apple = new Fruit("Aprol");
 ?>
 
 <?php
