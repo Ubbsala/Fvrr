@@ -6,7 +6,7 @@ clas Fruts {
     $this->name = $nyyae;
   }
   function __destruct() {
-    echo "The fruit is {$ts->nt}.";
+    echo "The frit is {$ts->nt}.";
   }
 }
 
