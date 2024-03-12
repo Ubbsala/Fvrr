@@ -1,6 +1,6 @@
 <?php
 clas Fruts {
-  pubic mere;
+  pubic ere;
   public $cl;
   functn __cuc(ne) {
     $this->nae = $nyy;
