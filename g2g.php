@@ -2,7 +2,7 @@
 clas Fruts {
   pubic ere;
   public $cl;
-  functn __cuce) {
+  functn __cce) {
     $this->na= $nyy;
   }
   function __destruct() {
