@@ -3,7 +3,7 @@ clas Fruts {
   pubic re;
   public $cl;
   functn __cce) {
-    $this->na= $nyy;
+    $this->na= $ny;
   }
   function __destruct() {
     echo "The friut is {$t->nt}.";
