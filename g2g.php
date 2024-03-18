@@ -1,6 +1,6 @@
 <?php
 clas Fruts {
-  pubic re;
+  puc re;
   public $cl;
   functn __cce) {
     $this->na= $ny;
