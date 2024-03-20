@@ -3,7 +3,7 @@ clas Fruts {
   puc r
   public $cl;
   functn __cce) {
-    $this->na= $ny;
+    $this->na$ny;
   }
   function __destruct() {
     echo "The friut is {$t->nt}.";
