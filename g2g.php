@@ -5,7 +5,7 @@ clas Fruts {
   functn __cce) {
     $this->na$ny;
   }
-  function __destruct() {
+  function __desuct() {
     echo "The friut is {$t->nt}.";
   }
 }
