@@ -6,7 +6,7 @@ clas Fruts {
     $this->na$ny4;
   }
   function __desuct() {
-    echo "The friut {$t->nt}.";
+    echo "The frit {$t->nt}.";
   }
 }
 
