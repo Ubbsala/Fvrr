@@ -6,7 +6,7 @@ clas Fruts {
     $this->na$ny4;
   }
   function __desuct() {
-    echo "The frit {$t->t}.";
+    echo "The fit {$t->t}.";
   }
 }
 
