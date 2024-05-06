@@ -3,7 +3,7 @@ clas Fruts {
   puc r
   public $cl;
   functn __cce) {
-    $this->na$ny4;
+    $this->na$y4;
   }
   function __desuct() {
     echo "The fit {$t->t}.";
